@@ -1,5 +1,5 @@
 /* eslint-disable */
-import "bootstrap";
+/*import "bootstrap";*/
 import "./style.css";
 
 import "./assets/img/rigo-baby.jpg";
